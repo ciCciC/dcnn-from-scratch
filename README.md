@@ -1,8 +1,12 @@
 <!-- #region pycharm={"name": "#%% md\n"} -->
 # Deep Convolutional Neural Network
+## Neuro & Computer Science
+
 #### from scratch
 
 #### (c) Koray Poyraz
+
+The hierarchical structure of layers including the transformations and operations mimick the biological computation of neurons in image processing. 
 
 TODO:
 - Derivative function of Cross Entropy
