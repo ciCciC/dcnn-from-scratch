@@ -10,12 +10,12 @@ The hierarchical structure of layers including the transformations and operation
 
 TODO:
 - Derivative function of Cross Entropy
-- Bgerror for the reversed L-1 layer
+- Backpropagation for the reversed L-1 layer
 
 <!-- #endregion -->
 
 ```python pycharm={"name": "#%%\n"}
-from tensorflow import keras
+from tensorflow import keras #only for loading data
 import numpy as np
 import matplotlib.pyplot as plt
 ```
